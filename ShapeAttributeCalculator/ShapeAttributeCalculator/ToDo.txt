@@ -1,0 +1,9 @@
+add validation to square and rectangle
+
+after 5 attemps see if the user wants help? (just main menu?)
+
+do i want an exit option the main screen?
+
+look at the sizing gaps between run again invalid input and incorrect choice
+
+look at making the calculating methods private and the collecting public.
